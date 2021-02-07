@@ -1,8 +1,6 @@
 # formdataValidation
 There are many ways to validate data in Node.js like Express-validator,
- Express-validator is a library which wraps around validator.js and exposes its functions as a set of middlewares.
- 
- In this library we can use many validator methods like : 
+ Express-validator is a library which wraps around validator.js and exposes its functions as a set of middlewares,in this library we can use many validator methods like : 
  
  isEmail(): This validator function checks if the incoming string is a valid email address.
  
